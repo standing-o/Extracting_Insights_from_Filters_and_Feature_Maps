@@ -25,9 +25,9 @@ Val accuracy : 97.19%
 #### 1. Filters  
 - First Conv2D kernel size is (5,5) and second, third are (3,3)  
 <div align="center">  
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv1.jpg" width="17%">  
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv2.jpg" width="17%"> 
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv3.jpg" width="17%"> <br>
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv1.jpg" width="25%">  
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv2.jpg" width="25%"> 
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv3.jpg" width="25%"> <br>
 </div>  
 
 #### 2. Feature maps
