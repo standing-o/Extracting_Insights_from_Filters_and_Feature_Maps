@@ -19,10 +19,10 @@ Train accuracy : 98.40%
 Val accuracy : 97.19%  
 
 ## Visualization  
-#### 0. Test sample - leaf infected with mosaic virus
+### 0. Test sample - leaf infected with mosaic virus
 <img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/sick_sample.jpg" width="20%">
 
-#### 1. Filters  
+### 1. Filters  
 - First Conv2D kernel size is (5,5) and second, third are (3,3)  
 <div align="center">  
 <img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv1.jpg" width="25%">  
@@ -30,7 +30,7 @@ Val accuracy : 97.19%
 <img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv3.jpg" width="25%"> <br>
 </div>  
 
-#### 2. Feature maps
+### 2. Feature maps
 - 3 feature maps with test sample (mosaic virus)  
 <div align="center">  
 <img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Featuremap1.jpg" width="45%">  
