@@ -9,7 +9,7 @@
 
 ## Results
 #### 1. Baseline CNN with (32, 32) target size
-- 50 iterations, 1 batch
+- 50 iterations, 1 batch  
 Train accuracy : 97.60%  
 Val accuracy : 96.63%  
 
