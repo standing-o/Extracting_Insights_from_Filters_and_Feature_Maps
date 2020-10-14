@@ -20,14 +20,14 @@ Val accuracy : 97.19%
 
 ## Visualization  
 #### 0. Test sample - leaf infected with mosaic virus
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/sick_sample.jpg" width="30%">
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/sick_sample.jpg" width="20%">
 
 #### 1. Filters  
 - First Conv2D kernel size is (5,5) and second, third are (3,3)  
 <div align="center">  
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv1.jpg" width="20%">  
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv2.jpg" width="20%"> <br>
-<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv3.jpg" width="20%"> <br>
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv1.jpg" width="17%">  
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv2.jpg" width="17%"> <br>
+<img src="https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/figure/Conv3.jpg" width="17%"> <br>
 </div>  
 
 #### 2. Feature maps
