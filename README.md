@@ -8,12 +8,12 @@
 - 804 images belonging to 3 classes by using google image crawling
 
 ## Results
-#### 1. Baseline CNN with (32, 32) target size
+#### 1. Baseline CNN with (32, 32) target size | [[Code]](https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/Baseline_CNN_with_leaf_dataset.ipynb)
 - 50 iterations, 1 batch  
 Train accuracy : 97.60%  
 Val accuracy : 96.63%  
 
-#### 2. Baseline CNN with **(128, 128)** target size
+#### 2. Baseline CNN with **(128, 128)** target size | [[Code]](https://github.com/OH-Seoyoung/Extracting_insights_from_filters_and_feature_maps/blob/master/Baseline_CNN_with_complicated_leaf_dataset.ipynb)
 - **30** iterations, 1 batch  
 Train accuracy : 98.40%  
 Val accuracy : 97.19%  
