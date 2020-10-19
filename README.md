@@ -1,5 +1,5 @@
 # Extracting insights from filters and feature maps (20201013)  
-- Classification of leaf images such as Hypersensitive reaction (HR), normal, mosaic virus
+- Classification of leaf images such as Hypersensitive response (HR), normal, mosaic virus
 - Visualization of filters and feature maps in leaf disease image classifiers
 - In this way, we can visually identify which features have a significant impact on classification, and further extract the visual characteristics of the three kinds of leaf states.  
 - This repo is maintained by 오서영, [정명지](https://github.com/mongdii)  
